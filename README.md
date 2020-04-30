@@ -14,7 +14,7 @@ Be sure, you have installed all dependencies and applications to run React Nativ
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-react-native.git
+git clone https://github.com/yatmadev/Recipes-App.git
 cd Recipes-App
 ```
 
